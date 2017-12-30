@@ -1,0 +1,1 @@
+"C:\Program Files\nodejs\node.exe" "C:\Users\naveen\AppData\Roaming\npm\node_modules\appium"
